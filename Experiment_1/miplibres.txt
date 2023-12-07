@@ -1,4 +1,3 @@
-nome_problema #var_fissate #var_ristrette #var_totali
 30n20b8 0 3301 18380
 50v-10 27 1777 2013
 academictimetablesmall 255 255 28926
