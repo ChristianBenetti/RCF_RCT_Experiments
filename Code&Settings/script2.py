@@ -233,7 +233,7 @@ def clear():
     
 if __name__ == '__main__':
     cpxRel = Cplex()
-    cpxRel.parameters.read_file('settings.rpm')
+    cpxRel.parameters.read_file('settings.prm')
     
     #Legge miplib2017.txt che contiene il nome dei modelli della libreria miplib e il relativo valore ottimo    
     readTxt("miplib2017.txt")
